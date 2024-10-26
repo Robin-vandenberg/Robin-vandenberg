@@ -7,7 +7,9 @@
 
 ⚐ Based in Eindhoven, Noord-Brabant, the Netherlands
 
-ϟ Currently building a soft-fruit harvest prediction dashboard @YieldComputer
+ϟ Currently working on the future of logistics @Frontliners
+
+ϟ Helped build a soft-fruit harvest prediction dashboard @YieldComputer
 
 ϟ Recently worked on building apps to improve sustainability in daily activities @Happy.Green
 
